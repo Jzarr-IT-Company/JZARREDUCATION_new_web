@@ -1,0 +1,23 @@
+.card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-body {
+    flex-grow: 1;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.container {
+    padding: 0 15px;
+}
+
+
+#card-custom-css{
+    
+}

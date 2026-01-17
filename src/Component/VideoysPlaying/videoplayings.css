@@ -1,0 +1,4 @@
+/* Hide download button in WebKit browsers */
+.react-player video::-webkit-media-controls-panel {
+    display: none;
+}

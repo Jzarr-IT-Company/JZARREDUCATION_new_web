@@ -1,0 +1,38 @@
+.sticky-top {
+    position: sticky;
+    top: 0;
+    z-index: 1000; 
+}
+
+/* Fixed Sidebar for larger screens col-lg-3*/
+.side-bar {
+    position: fixed;
+    top: 97px; 
+    height: calc(100vh - 100px); 
+    overflow: auto; 
+}
+
+/* Adjust main content when sidebar is fixed on larger screens col-lg-9*/
+.main-content {
+    margin-left: 25%; 
+    padding: 0;
+    height: calc(100vh - 56px); /* Adjust based on navbar height */
+    overflow: auto;
+}
+
+/* Ensure full width for main content on smaller screens */
+@media (max-width: 991px) {
+    .side-bar {
+        display: none;
+    }
+
+    .main-content {
+        margin-left: 0; /* Reset margin when sidebar is hidden */
+        width: 100%; /* Full width on smaller screens */
+    }
+}
+
+/* Ensure the main content overflows correctly */
+.overflow-auto {
+    overflow: auto;
+}

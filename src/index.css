@@ -1,0 +1,29 @@
+
+.expanded-overlay {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+  .line-container {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 20px 0; /* Optional: Adjust margin as needed */
+  }
+
+  .line-container::before,
+  .line-container::after {
+    content: "";
+    flex: 1;
+    border-bottom: 1px solid #000; /* Line color and thickness */
+    margin: 0 10px; /* Space between text and line */
+  }
+
+  .line-container p {
+    margin: 0;
+    font-size: 1.5rem; /* Font size for the text */
+  }
+

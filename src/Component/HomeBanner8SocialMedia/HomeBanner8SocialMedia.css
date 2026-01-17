@@ -1,0 +1,93 @@
+.social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px; /* Increased spacing between icons */
+    padding: 20px;
+    background: rgba(67, 160, 71, 0.1); /* Light green glassmorphism background */
+    border-radius: 15px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+    backdrop-filter: blur(15px);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    transition: transform 0.3s ease;
+}
+
+.social-icon {
+    position: relative;
+    color: inherit; /* Original icon color */
+    font-size: 50px; /* Increased icon size */
+    width: 70px; /* Increased width */
+    height: 70px; /* Increased height */
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(255, 255, 255, 0.1); /* Light overlay */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    transition: all 0.4s ease;
+    overflow: hidden;
+}
+
+.social-icon:hover {
+    transform: translateY(-8px); /* Lift effect on hover */
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3); /* Enhanced shadow on hover */
+}
+
+.social-icon::before {
+    content: '';
+    position: absolute;
+    width: 150%;
+    height: 150%;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.3), transparent 70%);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0);
+    border-radius: 50%;
+    transition: transform 0.6s ease;
+}
+
+.social-icon:hover::before {
+    transform: translate(-50%, -50%) scale(1); /* Expanding radial gradient on hover */
+}
+
+.social-icon:hover {
+    animation: pop 0.6s ease; /* Pop animation on hover */
+}
+
+@keyframes pop {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+.instagram-gradient {
+    background: linear-gradient(45deg, #F58529, #DD2A7B, #8134AF, #515BD4);
+    color: white; /* Text or icon color */
+    padding: 10px; /* Adjust as needed */
+    border-radius: 50%; /* Makes it circular for icons */
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.instagram-gradient:hover {
+    filter: brightness(1.2); /* Slightly brightens on hover for effect */
+}
+.youtube-color {
+    background-color: #FF0000; /* YouTube red */
+    color: white; /* Icon or text color */
+    padding: 10px; /* Adjust as needed */
+    border-radius: 50%; /* For circular icon */
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.youtube-color:hover {
+    filter: brightness(1.2); /* Brighten effect on hover */
+}

@@ -1,0 +1,53 @@
+/* .rating {
+  display: flex;
+  direction: row;
+}
+
+.rating button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 5px;
+}
+
+.rating .on .star {
+  color: gold;
+}
+
+.rating .off .star {
+  color: lightgray;
+}
+
+.star {
+  font-size: 24px;
+} */
+
+.rating {
+  display: flex;
+  direction: row;
+}
+
+.rating button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 5px;
+}
+
+.rating .on .star {
+  color: gold; /* Filled star color */
+}
+
+.rating .partial .star {
+  background: linear-gradient(to right, gold 70%, lightgray 30%);
+  -webkit-background-clip: text;
+  color: transparent; /* Partial filled star color */
+}
+
+.rating .off .star {
+  color: lightgray; /* Unfilled star color */
+}
+
+.star {
+  font-size: 24px; /* Size of stars */
+}
