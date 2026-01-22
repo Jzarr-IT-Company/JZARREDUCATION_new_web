@@ -157,7 +157,7 @@ function Navbar() {
                                     <i className="fa-solid fa-circle-dot me-2" /> Join Live Class
                                 </span>
                             </button>
-                            <button
+                            {/* <button
                                 className="px-3 py-3 fw-semibold rounded-3 text-white border-none; text-decoration-none"
                                 style={{ fontSize: 14, border: "none", backgroundColor: "#023901" }}
                                 id="physicalclasses"
@@ -166,8 +166,8 @@ function Navbar() {
                                 <span>
                                     <i className="fa-solid fa-computer me-2" />
                                 </span>{" "}
-                                Physical Class
-                            </button>
+                                Physical Class1
+                            </button> */}
                             {
                                 isuser ? (
                                     <>

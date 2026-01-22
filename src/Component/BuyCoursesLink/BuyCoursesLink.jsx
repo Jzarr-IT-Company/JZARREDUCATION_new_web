@@ -11,7 +11,7 @@ function BuyCoursesLink({id}) {
     }
     return (
         <>
-            <Link className="text-success fw-semibold" style={{ cursor: "pointer" }} onClick={nextBtn}>Buy Now</Link>
+            {/* <Link className="text-success fw-semibold" style={{ cursor: "pointer" }} onClick={nextBtn}>Buy Now1</Link> */}
         </>
     )
 }

@@ -19,9 +19,9 @@ const CourseCard = memo(({ course, onClick,dealRef }) => {
                 <div className="card-body d-flex flex-column">
                     <h5 className="card-title fw-bold text-dark">{course.coursename}</h5>
                     <p className="card-text text-muted">{descriptionSnippet}</p>
-                    <p className="card-text fw-bold text-success mb-2">
+                    {/* <p className="card-text fw-bold text-success mb-2">
                         🎓 Course Fee: <span className="fs-5">4500 PKR</span>
-                    </p>
+                    </p> */}
                     <div
                         className="p-2 rounded-3 fw-bold text-white text-center"
                         style={{

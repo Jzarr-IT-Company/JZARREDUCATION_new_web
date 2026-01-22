@@ -63,7 +63,7 @@ function BeforeNavbar() {
                                 <span>
                                     <i className="fa-solid fa-computer me-2" />
                                 </span>{" "}
-                                Physical Class
+                                Physical Class 
                             </button>
                                 <Link
                                     className="px-3 text-decoration-none text-dark border-none" to={'/login'}
