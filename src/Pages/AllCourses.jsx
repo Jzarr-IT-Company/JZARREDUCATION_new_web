@@ -1,5 +1,6 @@
 import React, { useEffect, useState, useCallback, useRef } from 'react';
 import { getAllCourse } from '../Services/getCourses';
+import { filterVisibleCourses } from '../Services/courseCatalog';
 import { useNavigate } from 'react-router-dom';
 import { useGlobalState } from '../Context/Context';
 import ViewDeatlsBttn from '../Component/ViewDeatlsBttn/ViewDeatlsBttn';
@@ -27,7 +28,7 @@ function AllCourses() {
             setLoading(true);
             try {
                 const res = await getAllCourse();
-                setgetCourses(res);
+                setgetCourses(filterVisibleCourses(res));
             } catch (error) {
                 setLoading(false);
                 setError("Data not found");

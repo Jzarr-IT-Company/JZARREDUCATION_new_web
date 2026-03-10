@@ -1,6 +1,7 @@
 import React, { useEffect, useState, memo } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { getAllCourse } from '../../Services/getCourses';
+import { filterVisibleCourses } from '../../Services/courseCatalog';
 import { Skeleton } from 'antd';
 import { useGlobalState } from '../../Context/Context';
 import './Courses.css';
@@ -19,7 +20,7 @@ function Courses({dealRef}) {
             setLoading(true);
             try {
                 const res = await getAllCourse();
-                setCourses(res.slice(0, 12));
+                setCourses(filterVisibleCourses(res).slice(0, 12));
             } catch (error) {
                 setLoading(false);
                 console.log("ERROR FROM COURSES", error.message)

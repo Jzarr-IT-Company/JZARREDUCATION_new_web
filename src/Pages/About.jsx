@@ -47,17 +47,6 @@ function About() {
                             </p>
                         </div>
                         <div className="mb-4">
-                            <h4 className="abc"> Web Development :</h4>
-                            <p>
-                                This course provides a thorough introduction to web development,
-                                covering both front-end and back-end technologies. It is designed to
-                                equip students with the skills needed to build, design, and maintain
-                                websites and web applications. Suitable for beginners and those
-                                seeking to deepen their web development skills, this course combines
-                                theoretical knowledge with practical experience.
-                            </p>
-                        </div>
-                        <div className="mb-4">
                             <h4 className="abc">WordPress Development :</h4>
                             <p>
                                 This course offers a detailed introduction to WordPress, one of the
@@ -78,17 +67,6 @@ function About() {
                                 customization and marketing strategies. Designed for beginners and
                                 those seeking to enhance their Shopify skills, this course combines
                                 theoretical knowledge with practical experience.
-                            </p>
-                        </div>
-                        <div className="mb-4">
-                            <h4 className="abc"> Graphic Designing :</h4>
-                            <p>
-                                This course is designed to provide a thorough understanding of graphic
-                                design principles and techniques, equipping students with the skills
-                                to create compelling visuals across various media. Suitable for
-                                beginners and those seeking to enhance their design skills, this
-                                course covers both fundamental concepts and advanced techniques using
-                                popular design software.
                             </p>
                         </div>
                         <div className="mb-4">
@@ -120,39 +98,7 @@ function About() {
                                 sellers who want to master the art of selling on Amazon. It covers
                                 everything from setting up your seller account to advanced strategies
                                 for scaling your business. By the end of the course, you will have the
-                                knowledge and tools needed to succeed on Amazon’s marketplace.
-                            </p>
-                        </div>
-                        <div className="mb-4">
-                            <h4 className="abc"> Walmart Marketplace :</h4>
-                            <p>
-                                This course provides a comprehensive guide to leveraging Walmart
-                                Marketplace for expanding your e-commerce business. It covers
-                                everything from setting up your seller account to optimizing your
-                                listings and driving sales. Designed for both new and experienced
-                                sellers, this course will help you navigate Walmart’s platform
-                                effectively and maximize your business potential.
-                            </p>
-                        </div>
-                        <div className="mb-4">
-                            <h4 className="abc"> TikTok Shop:</h4>
-                            <p>
-                                This course is designed to equip you with the knowledge and skills
-                                needed to successfully set up, manage, and optimize a TikTok Shop.
-                                Whether you're a new entrepreneur or an experienced business owner
-                                looking to leverage TikTok’s platform for e-commerce, this course
-                                provides a comprehensive guide to building and growing your TikTok
-                                Shop.
-                            </p>
-                        </div>
-                        <div className="mb-4">
-                            <h4 className="abc"> Daraz Seller Course :</h4>
-                            <p>
-                                This course is designed to equip individuals with the knowledge and
-                                skills necessary to successfully sell products on Daraz, a leading
-                                e-commerce platform in South Asia. The course covers everything from
-                                setting up your seller account to advanced strategies for optimizing
-                                sales and managing your online store effectively.
+                                knowledge and tools needed to succeed on Amazon's marketplace.
                             </p>
                         </div>
                         <div className="mb-4">
@@ -160,7 +106,7 @@ function About() {
                                 Jzarr IT Institute benefits from the extensive experience of Jzarr IT
                                 Company, which serves hundreds of clients across national and
                                 international markets. <br /> Our mission is to deliver Advanced,
-                                practical training that empowers you to excel in today’s digital
+                                practical training that empowers you to excel in today's digital
                                 landscape. Join us to gain industry relevant skills and advance your
                                 career with confidence.
                             </p>
@@ -168,7 +114,6 @@ function About() {
                     </div>
                 </div>
             </div>
-
         </>
     )
 }

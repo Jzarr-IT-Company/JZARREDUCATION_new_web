@@ -2,12 +2,16 @@ import React, { useEffect, useState } from 'react'
 import { useGlobalState } from '../Context/Context'
 import PaynentForm from '../Component/PaynentForm/PaynentForm';
 import BankDetails from '../Component/BankDetails/BankDetails';
+import { visibleBundleCourseCount } from '../Services/courseCatalog';
+
 function Payment() {
     const { buyCourseData, totallFee } = useGlobalState();
     const [totallAmount, setTotalAmount] = useState('')
+
     useEffect(() => {
         setTotalAmount(buyCourseData.amount)
-    }, [])
+    }, [buyCourseData.amount])
+
     return (
         <>
             <div className="container py-5">
@@ -15,7 +19,7 @@ function Payment() {
                     <div className="col-lg-6 col-md-6 col-sm-12 mb-3">
                         <h3>Billing Detail</h3>
                         <small style={{ fontSize: 13 }} className="text-danger fw-semibold">
-                            Note: Get all 23 career-building courses with dedicated support until your first earning—all for just <strong>12,000 PKR</strong> , exclusively from JZARR IT Company! <span className='text-dark fw-bold'>If you want to buy one, the price of each course is 4500 PKR</span>
+                            Note: Get all {visibleBundleCourseCount} career-building courses with dedicated support until your first earning, all for just <strong>12,000 PKR</strong>, exclusively from JZARR IT Company! <span className='text-dark fw-bold'>If you want to buy one, the price of each course is 4500 PKR</span>
                         </small>
                         <hr />
                     </div>
