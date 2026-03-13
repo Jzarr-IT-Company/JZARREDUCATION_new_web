@@ -1,0 +1,59 @@
+1. What is technical SEO?
+
+Technical SEO focuses on improving website structure and performance.
+
+2. Why is technical SEO important?
+
+It helps search engines crawl and index websites effectively.
+
+3. What is website crawling?
+
+Crawling is the process search engines use to discover pages.
+
+4. What is indexing?
+
+Indexing stores webpage data in search engine databases.
+
+5. What is a sitemap?
+
+A sitemap lists all important pages of a website.
+
+6. What is robots.txt?
+
+robots.txt controls which pages search engines can access.
+
+7. Why is website speed important?
+
+Faster websites provide better user experience.
+
+8. What is mobile optimization?
+
+Mobile optimization ensures websites work well on smartphones.
+
+9. What is structured data?
+
+Structured data helps search engines understand page content.
+
+10. What is HTTPS?
+
+HTTPS ensures secure data transmission.
+
+11. What are broken links?
+
+Broken links lead to pages that no longer exist.
+
+12. How does site architecture affect SEO?
+
+A clear structure helps search engines understand website content.
+
+13. Can technical SEO improve rankings?
+
+Yes, proper technical optimization supports better ranking.
+
+14. What tools help with technical SEO?
+
+Tools like Google Search Console help monitor site performance.
+
+15. What skills will students gain?
+
+Students learn website structure optimization.

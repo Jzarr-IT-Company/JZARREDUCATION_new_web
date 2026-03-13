@@ -1,0 +1,59 @@
+1. What is on-page SEO?
+
+On-page SEO refers to optimizing individual pages of a website.
+
+2. Why is on-page SEO important?
+
+It helps search engines understand page content.
+
+3. What elements are included in on-page SEO?
+
+Title tags, meta descriptions, headings, content, and images.
+
+4. What is a meta title?
+
+A meta title is the clickable headline in search results.
+
+5. What is a meta description?
+
+A meta description summarizes webpage content.
+
+6. What are heading tags?
+
+Heading tags organize page content into sections.
+
+7. What is internal linking?
+
+Internal linking connects pages within the same website.
+
+8. Why is content important for SEO?
+
+Quality content helps answer user queries.
+
+9. What is keyword placement?
+
+Keywords should be placed naturally within content.
+
+10. What is image optimization?
+
+Optimizing images improves page speed and SEO.
+
+11. What is URL optimization?
+
+Clean and descriptive URLs improve rankings.
+
+12. Can content updates improve rankings?
+
+Yes, updated content can improve search visibility.
+
+13. What is readability in SEO?
+
+Content should be easy to understand for readers.
+
+14. Can beginners perform on-page SEO?
+
+Yes, many tools guide users through optimization.
+
+15. What skills will students gain?
+
+Students learn page optimization techniques.

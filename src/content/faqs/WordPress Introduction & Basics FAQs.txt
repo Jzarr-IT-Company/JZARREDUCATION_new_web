@@ -1,0 +1,59 @@
+1. What is WordPress?
+
+WordPress is a popular content management system (CMS) used to build websites and blogs.
+
+2. Why is WordPress widely used?
+
+WordPress is flexible, user-friendly, and supports thousands of themes and plugins.
+
+3. Do I need coding knowledge to use WordPress?
+
+No, beginners can build websites using themes and page builders without coding.
+
+4. What types of websites can be built with WordPress?
+
+You can create blogs, business websites, portfolios, e-commerce stores, and educational websites.
+
+5. Is WordPress free to use?
+
+WordPress software itself is free, but hosting and domain services may require payment.
+
+6. What is the difference between WordPress.com and WordPress.org?
+
+WordPress.org is self-hosted, while WordPress.com provides hosted website services.
+
+7. Is WordPress beginner-friendly?
+
+Yes, it is designed for beginners and professionals alike.
+
+8. What is a CMS?
+
+A CMS (Content Management System) allows users to manage website content easily.
+
+9. Can WordPress be used for business websites?
+
+Yes, many businesses use WordPress for professional websites.
+
+10. Is WordPress suitable for bloggers?
+
+Yes, WordPress originally started as a blogging platform.
+
+11. Can WordPress websites be customized?
+
+Yes, themes and plugins allow full customization.
+
+12. Is WordPress SEO-friendly?
+
+Yes, WordPress supports SEO plugins and optimization tools.
+
+13. Can WordPress websites be mobile responsive?
+
+Yes, many themes are mobile-friendly.
+
+14. What will students learn in this module?
+
+Students learn WordPress fundamentals and how websites work.
+
+15. Why do developers and marketers use WordPress?
+
+Because it is flexible, scalable, and widely supported.

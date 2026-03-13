@@ -1,0 +1,59 @@
+1. Why are SEO tools important?
+
+SEO tools help analyze website performance and identify optimization opportunities.
+
+2. What is website analytics?
+
+Website analytics measures visitor behavior and traffic sources.
+
+3. What is Google Analytics?
+
+Google Analytics is a tool used to track website traffic and user activity.
+
+4. What is Google Search Console?
+
+Google Search Console helps monitor website performance in search results.
+
+5. What is keyword tracking?
+
+Tracking keywords shows how a website ranks in search engines.
+
+6. What is backlink analysis?
+
+Backlink analysis evaluates links pointing to a website.
+
+7. What tools help analyze competitors?
+
+Tools like Ahrefs and SEMrush analyze competitor strategies.
+
+8. What is traffic analysis?
+
+Traffic analysis measures how visitors find and interact with a website.
+
+9. What is SEO reporting?
+
+SEO reports summarize website performance metrics.
+
+10. What is site audit?
+
+A site audit identifies technical and SEO issues.
+
+11. What is keyword ranking tracking?
+
+Tracking keyword positions in search engine results.
+
+12. How often should SEO analytics be reviewed?
+
+Website performance should be monitored regularly.
+
+13. Can SEO tools help improve rankings?
+
+Yes, they identify issues and opportunities.
+
+14. Are free SEO tools available?
+
+Yes, several tools offer free versions.
+
+15. What skills will students gain?
+
+Students learn how to analyze SEO data and optimize strategies.

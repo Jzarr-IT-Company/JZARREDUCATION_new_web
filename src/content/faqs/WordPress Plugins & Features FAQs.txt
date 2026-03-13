@@ -1,0 +1,59 @@
+1. What is a WordPress plugin?
+
+A plugin adds extra functionality to a WordPress website.
+
+2. Where can I install plugins?
+
+Plugins can be installed from the WordPress plugin directory.
+
+3. Are free plugins available?
+
+Yes, thousands of free plugins are available.
+
+4. What types of plugins exist?
+
+Plugins include SEO, security, caching, contact forms, and marketing tools.
+
+5. Can plugins slow down websites?
+
+Too many plugins can affect website performance.
+
+6. How do I install a plugin?
+
+Plugins can be installed directly from the WordPress dashboard.
+
+7. Can plugins be updated?
+
+Yes, regular updates improve security and performance.
+
+8. What is a security plugin?
+
+Security plugins protect websites from hacking and threats.
+
+9. What is a caching plugin?
+
+Caching plugins improve website loading speed.
+
+10. What is a contact form plugin?
+
+Contact form plugins allow visitors to send messages.
+
+11. What is an SEO plugin?
+
+SEO plugins help optimize websites for search engines.
+
+12. Can plugins be deleted?
+
+Yes, unused plugins should be removed.
+
+13. Are premium plugins available?
+
+Yes, premium plugins offer advanced features.
+
+14. What will students learn in this module?
+
+Students learn how to install and manage plugins.
+
+15. Why are plugins important?
+
+Plugins extend website functionality.

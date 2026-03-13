@@ -1,0 +1,59 @@
+1. What is order management on Etsy?
+
+Order management involves tracking purchases, processing orders, and communicating with customers on Etsy.
+
+2. How do I view my orders on Etsy?
+
+Orders can be managed through the Etsy seller dashboard.
+
+3. What happens when a customer places an order?
+
+The seller receives a notification and prepares the product for delivery.
+
+4. How are digital product orders handled?
+
+Digital orders are automatically delivered to the buyer after payment.
+
+5. How are physical product orders processed?
+
+Sellers must pack and ship the product according to their shop policies.
+
+6. Can sellers track order status?
+
+Yes, the seller dashboard shows order progress and shipping details.
+
+7. What happens if a customer cancels an order?
+
+Sellers can process cancellations depending on their shop policies.
+
+8. How do I communicate with customers about orders?
+
+Customer messages can be handled through Etsy’s messaging system.
+
+9. What should I do if an order issue occurs?
+
+Sellers should resolve the issue promptly and communicate with the customer.
+
+10. How are returns handled?
+
+Return policies are determined by the shop’s policies.
+
+11. Can sellers automate order notifications?
+
+Yes, Etsy automatically sends order confirmations to buyers.
+
+12. Why is order management important?
+
+Efficient order management improves customer satisfaction.
+
+13. How do sellers manage multiple orders?
+
+Orders can be organized and tracked from the seller dashboard.
+
+14. What is order fulfillment time?
+
+Fulfillment time refers to how long it takes to prepare and ship an order.
+
+15. What skills will students gain from this module?
+
+Students learn order tracking, customer communication, and fulfillment processes.

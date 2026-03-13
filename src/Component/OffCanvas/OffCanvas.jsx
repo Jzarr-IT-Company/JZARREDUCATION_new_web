@@ -69,7 +69,7 @@ function OffCanvasBtn() {
                                 to={'/faqs'}
                                 onClick={handleLinkClick}
                             >
-                                FAQ's
+                                Student Support
                             </Link>
                         </div>
                         <div className="py-3 px-2">

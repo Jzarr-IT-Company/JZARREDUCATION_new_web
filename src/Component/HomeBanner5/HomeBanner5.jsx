@@ -2,7 +2,7 @@ import { Navigation, Pagination, Scrollbar, A11y, Autoplay } from 'swiper/module
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebookF, faYoutube, faTiktok, faEthereum, faAmazon, faEtsy, faGoogle, faLinkedin } from '@fortawesome/free-brands-svg-icons';
-import { faUserAlt,faCode, faFilm, faPaintBrush  } from '@fortawesome/free-solid-svg-icons';  // Corrected import for faUserAlt
+import { faFilm } from '@fortawesome/free-solid-svg-icons';
 
 
 import 'swiper/css';
@@ -97,18 +97,6 @@ function HomeBanner5() {
                         <SwiperSlide className="d-flex justify-content-center align-items-center">
                             <FontAwesomeIcon icon={faLinkedin} style={imgStyle} />
                             <p className="fs-5 fw-semibold mt-2">LinkedIn</p>
-                        </SwiperSlide>
-
-                        {/* Web Development */}
-                        <SwiperSlide className="d-flex justify-content-center align-items-center">
-                            <FontAwesomeIcon icon={faCode} style={imgStyle} />
-                            <p className="fs-5 fw-semibold mt-2">Web Development</p>
-                        </SwiperSlide>
-
-                        {/* Graphic Designer */}
-                        <SwiperSlide className="d-flex justify-content-center align-items-center">
-                            <FontAwesomeIcon icon={faPaintBrush} style={imgStyle} />
-                            <p className="fs-5 fw-semibold mt-2">Graphic Designer</p>
                         </SwiperSlide>
 
                         {/* Video Editing */}

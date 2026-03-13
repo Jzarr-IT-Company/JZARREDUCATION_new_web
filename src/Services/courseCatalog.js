@@ -36,6 +36,7 @@ const hiddenCourseNames = new Set([
     'web developer',
     'frontend',
     'crypto spot trading',
+    'mastering daraz by jzarr',
     'mastering ebay from product hunting to sales success'
 ]);
 

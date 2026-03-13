@@ -16,7 +16,6 @@ const selectableCourses = [
     'Mastering Prompt Engineering for AI Tools',
     'Mass Media',
     'Fiverr Freelancing',
-    'Mastering Daraz by Jzarr',
     'Amazon Private Label'
 ];
 

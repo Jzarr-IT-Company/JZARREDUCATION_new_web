@@ -145,15 +145,6 @@ function Footer() {
                             <div className="">
                                 <Link
                                     className="text-dark text-decoration-none fw-semibold"
-                                    to={'/faqs'}
-                                    onClick={() => window.scrollTo(0, 0)}
-                                >
-                                    FAQs
-                                </Link>
-                            </div>
-                            <div className="">
-                                <Link
-                                    className="text-dark text-decoration-none fw-semibold"
                                     to={'/policy'}
                                     onClick={() => window.scrollTo(0, 0)}
                                 >
@@ -287,9 +278,9 @@ function Footer() {
                 </div>
             </div>
             <div className="container-fluid" style={{ backgroundColor: "#f5f5f5" }}>
-                <div className="row ">
-                    <div className="col">
-                        <p>@ 2024 JZARR EDUCATION | All rights reserved</p>
+                <div className="row">
+                    <div className="col text-center">
+                        <p className="mb-0 py-3">@ 2018 - 2026 JZARR EDUCATION | All rights reserved</p>
                     </div>
                 </div>
             </div>

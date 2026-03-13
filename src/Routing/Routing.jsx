@@ -17,6 +17,7 @@ const Profile = lazy(() => import("../Pages/Profile"));
 const ShowCOurses = lazy(() => import("../Pages/ShowCOurses"));
 const SelectedCourese = lazy(() => import("../Pages/SelectedCourese"));
 const FAQS = lazy(() => import("../Pages/FAQS"));
+const FaqTopicPage = lazy(() => import("../Pages/FaqTopicPage"));
 const TermsConditions = lazy(() => import("../Pages/TermsConditions"));
 const Refund = lazy(() => import("../Pages/Refund"));
 const PrivacyPolicy = lazy(() => import("../Pages/PrivacyPolicy"));
@@ -47,6 +48,7 @@ function Routing() {
             { path: "/detail", element: <ViewDetail /> },
             { path: "/about", element: <About /> },
             { path: "/faqs", element: <FAQS /> },
+            { path: "/faqs/:topicSlug", element: <FaqTopicPage /> },
             { path: "/terms", element: <TermsConditions /> },
             { path: "/refund", element: <Refund /> },
             { path: "/policy", element: <PrivacyPolicy /> },

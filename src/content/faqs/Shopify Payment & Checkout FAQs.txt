@@ -1,0 +1,59 @@
+1. What payment methods does Shopify support?
+
+Shopify supports credit cards, digital wallets, and online payment gateways.
+
+2. What is Shopify Payments?
+
+Shopify Payments is Shopify’s built-in payment processing system.
+
+3. Can third-party payment gateways be used?
+
+Yes, Shopify supports multiple payment gateways.
+
+4. What is the checkout process?
+
+Checkout is the process where customers complete purchases.
+
+5. Are transactions secure?
+
+Yes, Shopify uses secure payment technology.
+
+6. Can customers pay in different currencies?
+
+Yes, Shopify supports multi-currency payments.
+
+7. What is abandoned checkout?
+
+An abandoned checkout occurs when a customer leaves before completing payment.
+
+8. Can abandoned carts be recovered?
+
+Yes, Shopify allows automated cart recovery emails.
+
+9. Are there transaction fees?
+
+Fees may apply depending on payment gateway selection.
+
+10. Can payment methods be customized?
+
+Yes, store owners can enable or disable payment options.
+
+11. What is Shopify invoice billing?
+
+It is the billing system for Shopify subscription fees.
+
+12. Do digital products use the same checkout?
+
+Yes, the checkout process is similar.
+
+13. Can discount codes be applied during checkout?
+
+Yes, Shopify supports discount and promo codes.
+
+14. What happens after a successful payment?
+
+The order is confirmed and processed.
+
+15. What skills will students learn?
+
+Students learn payment setup and checkout optimization.

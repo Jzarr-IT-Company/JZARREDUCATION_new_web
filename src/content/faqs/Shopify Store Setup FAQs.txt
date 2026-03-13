@@ -1,0 +1,59 @@
+1. How do I create a Shopify store?
+
+You can create a store by signing up on the Shopify website and following the store setup process.
+
+2. What information is needed to create a store?
+
+Basic details such as store name, email address, and business information are required.
+
+3. Can beginners set up a Shopify store easily?
+
+Yes, Shopify provides guided steps for setting up a store.
+
+4. What is a Shopify theme?
+
+A theme controls the design and layout of your online store.
+
+5. Can I customize my Shopify theme?
+
+Yes, Shopify themes can be customized using built-in settings.
+
+6. Do I need a domain for my store?
+
+Yes, you can use a Shopify domain or connect your own domain.
+
+7. What are Shopify apps?
+
+Apps extend store functionality such as marketing, analytics, and shipping tools.
+
+8. How long does store setup take?
+
+Basic store setup can be completed within a few hours.
+
+9. Can I create multiple pages in my store?
+
+Yes, you can create pages such as About Us, Contact, and Policies.
+
+10. What is the Shopify dashboard?
+
+The dashboard is where store owners manage products, orders, and settings.
+
+11. Can I edit my store design anytime?
+
+Yes, store design can be updated anytime.
+
+12. Is mobile optimization included?
+
+Yes, Shopify themes are usually mobile responsive.
+
+13. Can Shopify stores sell internationally?
+
+Yes, Shopify supports international selling.
+
+14. What is store branding?
+
+Branding includes logos, colors, and visual identity.
+
+15. What skills will students learn?
+
+Students learn how to build and configure a professional Shopify store.

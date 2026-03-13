@@ -1,0 +1,59 @@
+1. What is WordPress SEO?
+
+SEO improves website visibility in search engines.
+
+2. Why is SEO important for websites?
+
+SEO helps websites attract organic traffic.
+
+3. What SEO plugins are commonly used?
+
+Popular SEO plugins include Yoast SEO and Rank Math.
+
+4. What are keywords in SEO?
+
+Keywords are search terms users type into search engines.
+
+5. How does content affect SEO?
+
+High-quality content improves search rankings.
+
+6. What is on-page SEO?
+
+On-page SEO focuses on optimizing page content.
+
+7. What is technical SEO?
+
+Technical SEO improves website structure and performance.
+
+8. Why is website speed important for SEO?
+
+Fast-loading websites improve user experience and rankings.
+
+9. What is a sitemap?
+
+A sitemap helps search engines crawl website pages.
+
+10. What is meta title and description?
+
+They describe webpage content in search results.
+
+11. How important are internal links?
+
+Internal links help search engines understand site structure.
+
+12. What is image optimization?
+
+Optimizing images improves page speed.
+
+13. What is mobile SEO?
+
+Mobile SEO ensures websites perform well on smartphones.
+
+14. Can beginners learn WordPress SEO?
+
+Yes, SEO tools simplify optimization.
+
+15. What skills will students gain?
+
+Students learn website optimization and search ranking strategies.

@@ -1,0 +1,59 @@
+1. What is Meta Ads optimization?
+
+Optimization is the process of improving ad performance by adjusting targeting, budget, and creatives.
+
+2. Why is optimization important?
+
+It helps increase conversions while reducing advertising costs.
+
+3. What metrics should advertisers track?
+
+Common metrics include CTR, CPC, conversions, and ROAS.
+
+4. What is CTR in advertising?
+
+CTR (Click-Through Rate) measures how many users click on an ad.
+
+5. What is CPC?
+
+CPC (Cost Per Click) measures how much advertisers pay for each click.
+
+6. What is ROAS?
+
+ROAS (Return on Ad Spend) measures the revenue generated from ads.
+
+7. How can advertisers improve ad performance?
+
+Performance can improve by testing different creatives, audiences, and budgets.
+
+8. What is A/B testing?
+
+A/B testing compares different ads to see which performs better.
+
+9. What is audience retargeting?
+
+Retargeting shows ads to users who previously interacted with your website or content.
+
+10. What is lookalike audience targeting?
+
+Lookalike audiences help advertisers reach people similar to existing customers.
+
+11. How can campaigns be scaled?
+
+Scaling can be done by increasing budgets or expanding audience targeting.
+
+12. What is ad fatigue?
+
+Ad fatigue occurs when the audience sees the same ad repeatedly.
+
+13. How can advertisers refresh ads?
+
+Advertisers can update creatives, headlines, and targeting.
+
+14. How often should campaigns be optimized?
+
+Campaigns should be reviewed regularly to maintain performance.
+
+15. What skills will students gain?
+
+Students learn campaign optimization, analytics interpretation, and scaling strategies.

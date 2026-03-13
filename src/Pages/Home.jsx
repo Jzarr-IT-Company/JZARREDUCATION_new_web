@@ -9,7 +9,7 @@ import ScrollToTop from '../Component/ScrollTop/ScrollTop';
 import MarqueeText from '../Component/MarqueeText/MarqueeText';
 import HomeBanner3 from '../Component/HomeBanner3/HomeBanner3';
 import HomeBanner5 from '../Component/HomeBanner5/HomeBanner5';
-import HomeBanner7 from '../Component/HomeBanner7/HomeBanner7';
+// import HomeBanner7 from '../Component/HomeBanner7/HomeBanner7';
 import HomeBanner8 from '../Component/HomeBanner8/HomeBanner8';
 import HomeBanner9 from '../Component/HomeBanner9/HomeBanner9';
 
@@ -33,7 +33,8 @@ function Home() {
         <HomeBanner4 />
       </Suspense>
       <ReviewsSlider />
-      <HomeBanner7 />
+      {/* thi was our success story students section  */}
+      {/* <HomeBanner7 /> */}   
       <HomeBanner8 />
       <AboutUsOfCEO />
       <ExpertsFromJZARR />

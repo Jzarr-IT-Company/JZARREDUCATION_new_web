@@ -1,0 +1,59 @@
+1. What is a WordPress theme?
+
+A theme controls the design and layout of a WordPress website.
+
+2. Where can I find WordPress themes?
+
+Themes can be found in the WordPress theme directory or third-party marketplaces.
+
+3. Are free themes available?
+
+Yes, WordPress offers thousands of free themes.
+
+4. Can themes be customized?
+
+Yes, themes can be customized using the WordPress Customizer.
+
+5. What is responsive design?
+
+Responsive design ensures the website works on mobile and desktop devices.
+
+6. What is a child theme?
+
+A child theme allows customization without modifying the original theme.
+
+7. Can themes affect website performance?
+
+Yes, poorly optimized themes can slow down websites.
+
+8. What are premium themes?
+
+Premium themes offer advanced features and professional designs.
+
+9. Can themes be changed anytime?
+
+Yes, WordPress themes can be switched anytime.
+
+10. What is a page builder?
+
+A page builder allows drag-and-drop website design.
+
+11. What design elements should a website include?
+
+Headers, menus, content sections, images, and footers.
+
+12. How important is website design?
+
+A good design improves user experience and engagement.
+
+13. Can beginners design websites with WordPress?
+
+Yes, beginners can create professional designs using themes and page builders.
+
+14. What will students learn in this module?
+
+Students learn website design and theme customization.
+
+15. Why is branding important in design?
+
+Branding helps create a consistent visual identity.

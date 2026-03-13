@@ -1,0 +1,59 @@
+1. What is WordPress installation?
+
+WordPress installation is the process of setting up WordPress on a hosting server.
+
+2. Do I need hosting to install WordPress?
+
+Yes, hosting services store your website files online.
+
+3. What is a domain name?
+
+A domain name is the web address people use to visit your website.
+
+4. Can WordPress be installed automatically?
+
+Yes, many hosting providers offer one-click WordPress installation.
+
+5. What is the WordPress dashboard?
+
+The dashboard is the control panel used to manage your website.
+
+6. What basic settings should be configured after installation?
+
+Site title, tagline, permalinks, and general settings should be configured.
+
+7. Can WordPress be installed locally?
+
+Yes, developers often install WordPress locally for testing.
+
+8. What is a permalink structure?
+
+Permalinks define how website URLs are formatted.
+
+9. Can WordPress websites be migrated to another host?
+
+Yes, migration plugins can transfer websites between hosts.
+
+10. Is SSL important for WordPress websites?
+
+Yes, SSL provides secure website connections.
+
+11. How long does WordPress installation take?
+
+Installation usually takes only a few minutes.
+
+12. What should be done after installation?
+
+Install themes, plugins, and configure settings.
+
+13. Can beginners install WordPress easily?
+
+Yes, installation is simple with hosting tools.
+
+14. What will students learn in this module?
+
+Students learn WordPress installation and setup processes.
+
+15. Why is proper setup important?
+
+Correct setup ensures website security and performance.

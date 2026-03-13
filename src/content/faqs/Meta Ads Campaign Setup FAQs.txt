@@ -1,0 +1,59 @@
+1. What is a Meta Ads campaign?
+
+A campaign is the overall advertising structure that defines the marketing objective.
+
+2. What are the levels of Meta Ads structure?
+
+Meta Ads structure includes campaign, ad set, and ad levels.
+
+3. What is an ad set?
+
+An ad set controls audience targeting, budget, and ad placements.
+
+4. What is an ad in Meta Ads?
+
+An ad is the creative content shown to the audience.
+
+5. How do I create a campaign in Meta Ads Manager?
+
+Campaigns are created in Meta Ads Manager by selecting an objective and configuring settings.
+
+6. What types of campaign objectives are available?
+
+Objectives include awareness, traffic, engagement, leads, app installs, and sales.
+
+7. What is audience targeting?
+
+Audience targeting allows advertisers to select who will see their ads.
+
+8. Can I target specific locations?
+
+Yes, advertisers can target users based on country, city, or region.
+
+9. What are ad placements?
+
+Placements determine where ads appear across Meta platforms.
+
+10. What is the campaign budget?
+
+The budget is the amount advertisers spend on their ads.
+
+11. What is daily vs lifetime budget?
+
+Daily budget is spent per day, while lifetime budget is spent over the campaign duration.
+
+12. How long does campaign setup take?
+
+A campaign can be created within minutes using Ads Manager.
+
+13. Can beginners run campaigns successfully?
+
+Yes, beginners can start with simple campaigns and optimize later.
+
+14. What creative formats are supported?
+
+Ads can include images, videos, carousels, and slideshows.
+
+15. What skills will students gain?
+
+Students learn campaign creation, targeting strategies, and ad setup.

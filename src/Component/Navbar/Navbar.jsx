@@ -74,8 +74,10 @@ function Navbar() {
                             <li className="nav-item">
                                 <Link
                                     className="nav-link text-secondary fw-semibold "
+                                    to={'/faqs'}
+                                    onClick={() => window.scrollTo(0, 0)}
                                 >
-                                    Students Support
+                                    Student Support
                                 </Link>
                             </li>
                             {/* <li className="nav-item">

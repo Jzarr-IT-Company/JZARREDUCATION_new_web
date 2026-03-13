@@ -66,7 +66,7 @@ function HomeBanner9({ dealRef }) {
                         <p className="display-5 fw-bold my-5" style={{ marginBottom: '2rem', textAlign: 'center' }}>
                             E-commerce with AI.
                             <br />
-                            Enroll before <span style={{ color: '#1976d2' }}>1st March 2026</span> - <span style={{ color: '#d32f2f' }}>Limited Seats</span>
+                            Enroll before <span style={{ color: '#1976d2' }}>1st April 2026</span> - <span style={{ color: '#d32f2f' }}>Limited Seats</span>
                         </p>
                         <div style={{ width: '100%' }}>
                             <BuyAllCoursesButton />

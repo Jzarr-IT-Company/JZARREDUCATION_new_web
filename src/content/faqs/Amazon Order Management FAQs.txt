@@ -1,0 +1,59 @@
+1. What is Amazon order management?
+
+Order management refers to tracking, processing, and handling customer orders on Amazon.
+
+2. Why is order management important?
+
+Efficient order management ensures timely delivery, customer satisfaction, and smooth business operations.
+
+3. What will I learn in the order management module?
+
+Students learn how to monitor orders, handle shipping processes, and manage customer requests.
+
+4. How are orders processed in Amazon FBA?
+
+In FBA, Amazon automatically processes, packs, and ships customer orders.
+
+5. How are orders processed in FBM?
+
+In FBM, sellers must pack and ship orders themselves and update tracking information.
+
+6. Where can I see my orders in Amazon Seller Central?
+
+Orders can be viewed and managed through the Amazon Seller Central dashboard.
+
+7. How do sellers track order status?
+
+Order tracking is available through the seller dashboard where shipment and delivery updates are displayed.
+
+8. How are customer messages handled?
+
+Sellers must respond to customer inquiries through Amazon’s messaging system.
+
+9. What happens if a customer cancels an order?
+
+Sellers must follow Amazon policies when processing order cancellations.
+
+10. How are returns handled in Amazon?
+
+Return management depends on whether the order was fulfilled through FBA or FBM.
+
+11. How important is fast order processing?
+
+Quick order processing improves customer satisfaction and seller performance metrics.
+
+12. What are Amazon seller performance metrics?
+
+These include order defect rate, late shipment rate, and cancellation rate.
+
+13. Can sellers automate order management?
+
+Some tools and systems can help automate certain order management tasks.
+
+14. What should I do if an order problem occurs?
+
+Sellers should resolve issues promptly while following Amazon policies.
+
+15. What skills will I gain from this module?
+
+Students learn order tracking, customer service handling, fulfillment processes, and operational management.

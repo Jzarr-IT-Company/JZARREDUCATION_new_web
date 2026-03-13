@@ -1,0 +1,59 @@
+1. What is product listing in Shopify?
+
+Product listing means adding products to your store with titles, descriptions, and images.
+
+2. What information should a product listing include?
+
+Title, description, price, images, and product variants.
+
+3. How many images should a product have?
+
+Multiple high-quality images improve customer trust.
+
+4. What are product variants?
+
+Variants allow different sizes, colors, or styles for one product.
+
+5. Can digital products be listed?
+
+Yes, Shopify supports digital product sales.
+
+6. How important are product descriptions?
+
+Descriptions explain product benefits and details.
+
+7. What is SKU in Shopify?
+
+SKU is a unique identifier used to track inventory.
+
+8. Can products be organized into collections?
+
+Yes, collections help categorize products.
+
+9. Do product images affect sales?
+
+Yes, high-quality images improve conversion rates.
+
+10. What is inventory management?
+
+Inventory management tracks product stock levels.
+
+11. Can I edit product details later?
+
+Yes, product listings can be updated anytime.
+
+12. What are product tags?
+
+Tags help organize and filter products.
+
+13. Can videos be added to product pages?
+
+Yes, videos improve product presentation.
+
+14. Can I duplicate product listings?
+
+Yes, duplication helps speed up listing similar items.
+
+15. What skills will students learn?
+
+Students learn product listing and store catalog management.

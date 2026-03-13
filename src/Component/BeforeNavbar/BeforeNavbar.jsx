@@ -35,8 +35,9 @@ function BeforeNavbar() {
                             <li className="nav-item">
                                 <Link
                                     className="nav-link text-secondary fw-semibold active"
+                                    to={'/faqs'}
                                 >
-                                    FAQ
+                                    Student Support
                                 </Link>
 
                             </li>
